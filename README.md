@@ -92,18 +92,6 @@ python main.py
 
 ---
 
-## 📸 Gameplay
-
-*Add a screenshot or GIF of your game here.*
-
-Example:
-
-```
-assets/gameplay.gif
-```
-
----
-
 ## 🔮 Future Improvements
 
 - Multiple lives
